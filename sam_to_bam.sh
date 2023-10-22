@@ -10,4 +10,4 @@ do
 done
 
 
-samtools index -M *.sorted.bam
+samtools index -M ~/ICA1/bt2_output_bam/*.sorted.bam

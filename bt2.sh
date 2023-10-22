@@ -17,7 +17,7 @@ do
 done < ~/ICA1/nh_Tco2.fqfiles
 
 
-#bowtie2-build /localdisk/data/BPSM/ICA1/Tcongo_genome/* index
+bowtie2-build /localdisk/data/BPSM/ICA1/Tcongo_genome/* ~/ICA1/index/index
 #This line is ran in command line, here is the record
 
 
